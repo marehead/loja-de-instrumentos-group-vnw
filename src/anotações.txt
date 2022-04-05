@@ -1,0 +1,13 @@
+05 03 2022
+
+ToLowerCasa é para letra minuscula
+resulta de letra maiucula para minuscula
+Map | simples encaixa em qualquer uma function #construção
+filter |para codigos mais complexo #contrução
+ 
+ if else
+
+ if (event.target.value === ''){
+   this.setState({result:[]});
+ }
+ };
